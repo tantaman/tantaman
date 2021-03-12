@@ -18,7 +18,7 @@ Here is a taste of what I like to work on and think about as it relates to code.
 * The merit behind the statement "OO Design is Bad Design"
 
 # 🤔 Currently Thinking About
-* How to improve software interoperability
+* [How](https://www.geoffreylitt.com/2021/03/05/bring-your-own-client.html) to [improve](https://plaintextaccounting.org/) software [interoperability](https://stratechery.com/2021/the-webs-missing-interoperability/)
 * [Counterfactuals in ML](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/1541698967/ref=asc_df_1541698967/?tag=hyprod-20&linkCode=df0&hvadid=459440273404&hvpos=&hvnetw=g&hvrand=6941749223415101727&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007770&hvtargid=pla-917887947980&psc=1)
 * [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token) and their use in determining the [provenance](https://en.wikipedia.org/wiki/Provenance) of digital goods
 
