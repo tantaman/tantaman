@@ -7,8 +7,8 @@ Here is a taste of what I like to work on and think about as it relates to code.
 * Prototyping centralized logging and real-time detection systems
 
 # ✍️ Currently Writing
-* The lost half of domain modeling
-* Why programming languages are tied up in incidental details
+* The [lost half of domain modeling](https://tantaman.com/2021-12-16-Missing-Mutation-Primitives/)
+* Why programming languages are tied up in incidental details ([part 1](https://tantaman.com/2021-12-17-Object-Identity/))
 * Encoding the _why_ into programs
 * Expressing policy and regulatory commitments using structural types
 * Why string, bool, int, etc. are not types*
