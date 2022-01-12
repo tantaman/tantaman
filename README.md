@@ -22,8 +22,10 @@ Here is a taste of what I like to work on and think about as it relates to code.
 * [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token) and their use in determining the [provenance](https://en.wikipedia.org/wiki/Provenance) of digital goods
 
 # 👨🏻‍🔬 Employment
+* 👨‍🚀Self Employed
+  * 2022 - Present: Improving software interoperability to reclaim our minds.
 * ∞ Meta
-  * 2021 - Present: Working on infrastructure to uphold commitments to user privacy
+  * 2021 - 2022: Working on infrastructure to uphold commitments to user privacy
   * 2016-2021: Building & designing products to protect the community from harm. Both [online and offline](https://about.fb.com/news/category/integrity-security/).
   * 2015: Briefly (6mo) maintained FB's [deletion framework](https://engineering.fb.com/2020/08/12/security/delf/) while it was homeless.
   * 2014-2016: Working to enable FB to respect the [laws of the countries in which it operates](https://transparency.facebook.com/)
