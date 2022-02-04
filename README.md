@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Matt's Github Stats](https://github-readme-stats.vercel.app/api?username=tantaman&show_icons=true&theme=buefy)
+
 Here is a taste of what I like to work on and think about as it relates to code.
 
 # 🔭 Open Source
