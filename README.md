@@ -25,7 +25,7 @@ Here is a taste of what I like to work on and think about as it relates to code.
 
 # 👨🏻‍🔬 Employment
 * 👨‍🚀Self Employed
-  * 2022 - Present: Improving software interoperability to reclaim our minds.
+  * 2022 - Present: Improving software interoperability to reclaim our minds & turning the document into an application development platform
 * ∞ Meta
   * 2021 - 2022: Responsible for technical vision and strategy to migrate all trust & safety systems @ Meta to "privacy aware infra"
   * 2016-2021: Building, designing & inventing platforms to protect the community from harm. Both [online and offline](https://about.fb.com/news/category/integrity-security/).
