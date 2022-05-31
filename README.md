@@ -1,4 +1,4 @@
-![Matt's Github Stats](https://github-readme-stats.vercel.app/api?username=tantaman&show_icons=true&theme=moltack)
+<!-- ![Matt's Github Stats](https://github-readme-stats.vercel.app/api?username=tantaman&show_icons=true&theme=moltack) -->
 
 
 In 2022 I left [Meta](meta.com) (Facebook) to become a [MicroFounder](https://microfounder.com/).
