@@ -9,7 +9,7 @@ Most of my time @Meta was spent developing frameworks to make code [integrity](h
 
 The most powerful tool I found to do this was to build or enrich existing data `schematization` layers. When developers fully describe their data,  operations against their data, and expected constraints on their data we can infer and enable dozens of value adds. E.g., automated clustering, feature extraction, rendering for human review, deletion, expected write time invariants and so on.
 
-I'm currently taking a similar approach to simplify development of software where all nodes are peers and there is no central server to act as a source of truth for the network.
+I'm currently taking a similar approach to simplify development of software where all nodes are peers and there is no central server to act as a source of truth for the network on http://aphrodite.sh/
 
 ---
 
