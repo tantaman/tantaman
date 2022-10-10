@@ -2,8 +2,7 @@
 
 # 👋
 
-In 2022 I left [Meta](meta.com) (Facebook) to become a [MicroFounder](https://microfounder.com/).
-<br/>My current goal is to make peer 2 peer software as easy to develop as traditional software.
+In 2022 I left [Meta](meta.com) to explore life not being an employee.
 
 Most of my time @Meta was spent developing frameworks to make code [integrity](https://about.fb.com/news/category/integrity-security/) and [privacy](https://about.facebook.com/actions/protecting-privacy-and-security/) respecting by default.
 
