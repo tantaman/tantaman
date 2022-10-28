@@ -13,7 +13,9 @@ I'm currently taking a similar approach to simplify development of software wher
 > Make offline-first & peer to peer software as easy to create as traditional client-server software - aphrodite.sh
 
 ---
-
+<!-- 
 <p align="center">
  <img src="https://static.wikia.nocookie.net/megaman/images/7/76/MM3-SearchSnake-Art.jpg/revision/latest?cb=20100506170821" />
-</p>
+</p> -->
+
+![logo-Vulcan2](https://user-images.githubusercontent.com/1009003/198502342-baeeeb11-c0ad-4a18-8c68-28fc4573510e.png)
