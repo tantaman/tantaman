@@ -8,7 +8,7 @@ Most of my time @Meta was spent developing frameworks to make code [integrity](h
 
 The most powerful tool I found to do this was to build or enrich existing data `schematization` layers. When developers fully describe their data,  operations against their data, and expected constraints on their data we can infer and enable dozens of value adds. E.g., automated clustering, feature extraction, rendering for human review, deletion, expected write time invariants and so on.
 
-I'm currently taking a similar approach to simplify development of collaborative and partition tolerant offline/local-first software @ https://aphrodite.sh/ (rebranding to https://vlcn.io)
+I'm currently taking a similar approach to simplify development of collaborative offline & [local-first](https://www.inkandswitch.com/local-first/) software @ https://aphrodite.sh/ (rebranding to https://vlcn.io)
 
 > Make offline-first & peer to peer software as easy to create as traditional client-server software - aphrodite.sh
 
