@@ -1,16 +1,13 @@
 <!-- ![Matt's Github Stats](https://github-readme-stats.vercel.app/api?username=tantaman&show_icons=true&theme=moltack) -->
 
 # 👋
+In 2022, after 15 years in the industry (last 8 at [Meta](meta.com)), I decided to pursue my own dreams of creating tools and frameworks that remove the burden of non-functional requirements that come with local-first development. 
 
-In 2022 I left [Meta](meta.com) to explore life not being an employee.
+Most of my time @Meta was spent developing frameworks to make code respect [integrity](https://about.fb.com/news/category/integrity-security/) and [privacy](https://about.facebook.com/actions/protecting-privacy-and-security/) by default. The most effective way I found was to build or enrich existing data `schematization` layers. When developers fully describe their data and their opereations or expected contraints, we can infer and enable dozens of value adds. E.g., automated clustering, feature extraction, rendering for human review, deletion, expected write time invariants and so on.
 
-Most of my time @Meta was spent developing frameworks to make code [integrity](https://about.fb.com/news/category/integrity-security/) and [privacy](https://about.facebook.com/actions/protecting-privacy-and-security/) respecting by default.
+Now, I am taking a similar approach to simplify collaborative, offline & [local-first](https://www.inkandswitch.com/local-first/) software development with [VLCN](https://vlcn.io) (previously [aphrodite](https://aphrodite.sh/)).
 
-The most powerful tool I found to do this was to build or enrich existing data `schematization` layers. When developers fully describe their data,  operations against their data, and expected constraints on their data we can infer and enable dozens of value adds. E.g., automated clustering, feature extraction, rendering for human review, deletion, expected write time invariants and so on.
-
-I'm currently taking a similar approach to simplify development of collaborative offline & [local-first](https://www.inkandswitch.com/local-first/) software @ https://aphrodite.sh/ (rebranding to https://vlcn.io)
-
-> Make offline-first & peer to peer software as easy to create as traditional client-server software - aphrodite.sh
+> DEVICE SYNC SIMPLIFIED: Develop multi-device applications that react to changing state in real-time. - vlnc.io
 
 ---
 <!-- 
