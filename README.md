@@ -2,7 +2,11 @@
 
 # 👋
 
-Building tools to simplifying the distribution of state.
+Building tools to simplifying the distribution of state @ [vlcn.io](https://vlcn.io).
+
+Formerly -
+- Meta / Facebook
+- Lockheed Martin
 
 ---
 <!-- 
