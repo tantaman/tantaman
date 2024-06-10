@@ -1,8 +1,6 @@
 # 👋
 
-Building tools to simplifying the distribution of state @ [vlcn.io](https://vlcn.io).
-
-Off the grid taking care of a new 🍼👶
+Partner @ [rocicorp.dev](https://rocicorp.dev/)
 
 Formerly -
 - Meta / Facebook
