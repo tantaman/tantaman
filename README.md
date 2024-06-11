@@ -1,6 +1,7 @@
 # 👋
 
-Partner @ [rocicorp.dev](https://rocicorp.dev/)
+- 🤝 Partner @ [rocicorp.dev](https://rocicorp.dev/)
+- 🔬 Researcher @ [vlcn.io](https://vlcn.io)
 
 Formerly -
 - Meta / Facebook
